@@ -1,19 +1,35 @@
 # KURE_Pharmacy
+**Kure** is a smart pharmacy assistant app built using **Flutter**, designed to streamline the medicine ordering experience using **AI and smart delivery features**.
 
-A new Flutter project created with FlutLab - https://flutlab.io
+## Features
 
-## Getting Started
+###  Upload Receipts
+Snap or upload your prescription or medical receipt directly from your device.
 
-A few resources to get you started if this is your first Flutter project:
+###  AI-Powered Suggestions
+Kure automatically reads and interprets your prescription using AI, then suggests accurate medicines and product options.
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+###  Smart Cart
+Tap to add recommended items directly to your cart with automatic dosage or quantity suggestions.
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+###  Send to Us
+Forward your prescription and order instantly to our partnered pharmacy for fast processing.
 
-## Getting Started: FlutLab - Flutter Online IDE
+###  Order Tracking
+Track the real-time status of your order — from confirmation to dispatch and delivery.
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+###  Delivery at Your Doorstep
+Choose your location and get medicines delivered to your home securely and on time.
+
+###  Multiple Payment Options
+Pay via cash on delivery, credit/debit card, or digital wallets — all secure and simple.
+
+#### Order History & Reorders
+View past orders and repeat them with a single click for convenience.
+
+### Out-of-Stock Alerts
+Get notified when a requested item is out of stock and receive alternatives.
+
+###  Smart Notifications
+Stay updated with order status, delivery updates, and refill reminders.
+
